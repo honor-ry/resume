@@ -8,10 +8,12 @@
 * **现居：** 北京
 * **邮箱：** yanyuliang6@163.com
 
+
 ### 教育背景 *Education Background*
 
 2014 - 2018 中原工学院 统招本科
 > GET4 英语四级
+
 
 ### 专业技能 *Professional Skill*
 
@@ -24,6 +26,7 @@
 * 熟悉 `Celery` 异步任务队列
 * 熟悉 `FastDFS` 存储系统
 * 有良好的文档阅读、编写能力，与人沟通能力
+
 
 ### 工作经历 *Work Experience*
 
@@ -46,11 +49,13 @@
 * 运维平台相关功能研发
 * 西门子数据处理项目开发
 
+
 ### 项目 *Project*
 
 ```java
 //TODO
 ```
+
 
 ### 展示平台 *public Platform*
 
