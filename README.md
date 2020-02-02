@@ -52,18 +52,18 @@
 
 ### 项目 *Project*
 
-* 公司项目保密，斟酌后进行补充
+> 公司项目保密，斟酌后进行补充
 
 ```java
 //TODO
 ```
-* 个人项目
+> 个人项目
 
 #### 项目一：美多商城
 
 **项目介绍**： 美多商城项目是一个 `B2C` 模式的电商网站，采用前后端分离的开发模式，前端采用 `vue` 框架，后端采用 `DRF` 框架。
 
-**仓库链接**：https://github.com/EthanYan6/E-commerce-sites.git
+**仓库链接**：[戳我直达](https://github.com/EthanYan6/E-commerce-sites.git)：https://github.com/EthanYan6/E-commerce-sites.git
 
 **项目功能模块**：用户部分、商品部分、购物车部分以及订单部分
 
@@ -75,7 +75,7 @@
 
 **项目介绍**：一款新闻展示的 `Web` 项目，主要为用户提供最新的金融资讯、数据以抓取其他网站数据和用户发布作为新闻的主要来源，基于 `Flask` 框架，以 **前后端不分离** 的形式实现具体业务逻辑。
 
-**仓库链接**：https://gitee.com/Ethanyan/flask_coolweb.git
+**仓库链接**：[戳我直达](https://gitee.com/Ethanyan/flask_coolweb.git)：https://gitee.com/Ethanyan/flask_coolweb.git
 
 **项目功能模块**：新闻模块、用户模块、后台管理模块
 
@@ -87,7 +87,7 @@
 
 **项目介绍**：一款租房的移动端 `web` 项目，采用前后端分离的开发模式。可以进行房源的发布，房屋的预定等功能。
 
-**仓库链接**：https://gitee.com/Ethanyan/renting_house_project.git
+**仓库链接**：[戳我直达](https://gitee.com/Ethanyan/renting_house_project.git)：https://gitee.com/Ethanyan/renting_house_project.git
 
 **项目功能模块**：用户模块（登录、注册、个人中心、用户订单）、房屋模块（房屋列表、房屋预定、房屋详情、房屋发布）
 
