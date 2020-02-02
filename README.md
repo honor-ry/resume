@@ -63,10 +63,10 @@
 [戳我直达](http://ethanyan6.github.io/)：www.pythonnote.cn <br>
 
 #### 2.GitHub
-[Github](https://github.com/EthanYan6)：https://github.com/EthanYan6
+[戳我直达](https://github.com/EthanYan6)：https://github.com/EthanYan6
 
 #### 3.Gitee
-[Gitee](https://gitee.com/Ethanyan)：https://gitee.com/Ethanyan
+[戳我直达](https://gitee.com/Ethanyan)：https://gitee.com/Ethanyan
 
 #### 4.微信公众号
 请关注公众号『Pythonnote』或者『全栈技术精选』，当然也可以直接扫描下方二维码（loading...）
