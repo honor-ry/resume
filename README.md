@@ -96,7 +96,7 @@
 ### 展示平台 *public Platform*
 
 #### 1.个人网站
-[戳我直达](www.pythonnote.cn)：www.pythonnote.cn <br>
+[戳我直达](http://www.pythonnote.cn)：www.pythonnote.cn <br>
 
 #### 2.GitHub
 [戳我直达](https://github.com/EthanYan6)：https://github.com/EthanYan6
