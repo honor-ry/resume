@@ -11,6 +11,3 @@ ps：此项目尚未找到产品经理，无「怼」无动力，我赌我头顶
 #### 2.个人网站
 [点我！我就是小闫同学的网站](http://www.pythonnote.cn/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
